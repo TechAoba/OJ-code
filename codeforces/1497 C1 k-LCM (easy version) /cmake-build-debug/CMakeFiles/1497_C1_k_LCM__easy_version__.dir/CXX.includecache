@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/techaoba/Documents/OJ-code/codeforces/1497 C1 k-LCM (easy version) /main.cpp
+bits/stdc++.h
+-
+
