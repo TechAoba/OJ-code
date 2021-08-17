@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/techaoba/Documents/OJ-code/codeforces/global round 14/B/main.cpp
+iostream
+-
+algorithm
+-
+cstring
+-
+queue
+-
+vector
+-
+cmath
+-
+set
+-
+

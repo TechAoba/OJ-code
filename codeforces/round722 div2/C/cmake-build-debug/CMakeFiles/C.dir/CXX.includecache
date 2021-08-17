@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/techaoba/Documents/OJ-code/codeforces/round722 div2/C/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+cmath
+-
+

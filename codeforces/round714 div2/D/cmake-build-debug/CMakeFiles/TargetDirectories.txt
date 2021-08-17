@@ -1,0 +1,3 @@
+/Users/techaoba/Documents/OJ-code/codeforces/round714 div2/D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/techaoba/Documents/OJ-code/codeforces/round714 div2/D/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/techaoba/Documents/OJ-code/codeforces/round714 div2/D/cmake-build-debug/CMakeFiles/D.dir
